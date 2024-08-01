@@ -51,7 +51,7 @@
             { "name": "協和婦女醫院", "district": "中山區", "address": "松江路85巷5號" },
             { "name": "景美醫院", "district": "文山區", "address": "羅斯福路六段280號" },
             { "name": "財團法人台灣省私立台北仁濟院附設仁濟醫院", "district": "萬華區", "address": "廣州街200號" },
-            { "name": "台北市立關渡醫院（委託臺北榮民總醫院經營）", "district": "北投區", "address": "知行路225巷12號" },
+            { "name": "臺北市立關渡醫院", "district": "北投區", "address": "知行路225巷12號" },
             { "name": "秀傳醫院", "district": "大安區", "address": "光復南路116巷1號" },
             { "name": "泰安醫院", "district": "中山區", "address": "民權東路2段92巷2-1號" },
             { "name": "萬華醫院", "district": "萬華區", "address": "中華路二段606巷6號" }
@@ -400,7 +400,6 @@
             { "name": "太順醫院", "district": "苓雅區", "address": "大順三路178號" },
             { "name": "博正醫院", "district": "左營區", "address": "修明街69號" },
             { "name": "聖明醫院", "district": "鼓山區", "address": "鼓山三路52號" },
-            { "name": "三泰醫院", "district": "鼓山區", "address": "九如四路1030號" },
             { "name": "三民建國醫院", "district": "鼓山區", "address": "中華一路345號" },
             { "name": "柯醫院", "district": "鼓山區", "address": "臨海二路37號" },
             { "name": "新高鳳醫院", "district": "鳳山區", "address": "光遠路360號" },
