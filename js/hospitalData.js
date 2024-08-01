@@ -4,7 +4,6 @@ const hospitalData = {
         { "name": "長庚醫療財團法人基隆長庚紀念醫院", "district": "安樂區", "address": "麥金路222號" },
         { "name": "三軍總醫院-正榮院區", "district": "中正區", "address": "正榮街100號" },
         { "name": "三軍總醫院-孝二院區", "district": "仁愛區", "address": "孝二路39號" },
-        { "name": "仁祥診所", "district": "仁愛區", "address": "忠一路20號" },
         { "name": "臺灣礦工醫院", "district": "暖暖區", "address": "源遠路29號" },
         { "name": "新昆明醫院", "district": "中正區", "address": "中正路30號" },
         { "name": "基隆市立醫院", "district": "信義區", "address": "東信路282號" }
@@ -349,7 +348,6 @@ const hospitalData = {
         { "name": "仁慈醫院", "district": "仁德區", "address": "中正路二段1225號" },
         { "name": "連婦產科醫院", "district": "永康區", "address": "中山南路29號" },
         { "name": "王建章婦產科醫院", "district": "永康區", "address": "中華路580號" },
-        { "name": "盈泰中西醫聯合診所", "district": "關廟區", "address": "中正路1023號" },
         { "name": "宏科醫院", "district": "善化區", "address": "三民路1-35號" },
         { "name": "永達醫院", "district": "永康區", "address": "永大路二段1326號" },
         { "name": "新生醫院", "district": "佳里區", "address": "新生路272號" },
@@ -456,7 +454,7 @@ const hospitalData = {
         { "name": "安和醫療社團法人安和醫院", "district": "屏東市", "address": "自由路598號" },
         { "name": "輔英科技大學附設醫院", "district": "東港鎮", "address": "中山路5號" },
         { "name": "國軍高雄總醫院屏東分院", "district": "屏東市", "address": "大湖路58巷22號" },
-        { "name": "高雄榮民總醫院屏東分院", "district": "內埔鄉", "address": "昭勝路安平1巷1號" },
+        { "name": "屏東榮民總醫院龍泉分院", "district": "內埔鄉", "address": "昭勝路安平1巷1號" },
         { "name": "枋寮醫院", "district": "枋寮鄉", "address": "中山路139號" },
         { "name": "李澤醫院", "district": "東港鎮", "address": "中山路36號" },
         { "name": "復興醫院", "district": "屏東市", "address": "民生路147之3號" },
@@ -490,6 +488,7 @@ const hospitalData = {
         { "name": "衛生福利部花蓮醫院-豐濱分院", "district": "豐濱鄉", "address": "光豐路41號" },
         { "name": "國軍花蓮總醫院附設民眾診療服務處", "district": "新城鄉", "address": "嘉里路163號" },
         { "name": "臺灣基督教門諾會醫療財團法人門諾醫院", "district": "花蓮市", "address": "民權路44號" },
+        { "name": "臺灣基督教門諾會醫療財團法人門諾醫院-壽豐分院", "district": "壽豐鄉", "address": "共和村魚池52號" },
         { "name": "臺北榮民總醫院-鳳林分院", "district": "鳳林鎮", "address": "中正路一段2號" },
         { "name": "臺北榮民總醫院-玉里分院", "district": "玉里鎮", "address": "新興街91號" }
     ],
